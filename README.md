@@ -1,8 +1,14 @@
 # Supermarket-billing-system
 I have created three directory 
-1. repositiory
-2. controller
-3. services
+1. repositiory (read_data python) 
+2. controller (get price python file)
+3. services (caluclate price python file)
+4. main .py file (main file where we can run code
+
+In this billing system i am taking input what items  required custome and how much quntity 
+after that we are callculate the price 
+and display your total ammount with item name and qunatity 
+
 
 In respositiory i am reading data
 In services we are callculate the price using some logic 
